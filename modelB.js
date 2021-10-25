@@ -8,3 +8,4 @@ var vehicle = {
   passengeryOccupancyName: ['Rory','empty','empty','empty','empty'],
   passengerOccupancyBinary: [1, 0, 0, 0, 0],
 }
+//Test

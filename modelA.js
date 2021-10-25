@@ -8,3 +8,4 @@ var airport = {
   terminals: ['A', 'B', 'C'],
   terminalFlights: [4, 4, 4],
 }
+//Test
